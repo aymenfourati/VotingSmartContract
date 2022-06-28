@@ -1,0 +1,29 @@
+{
+    "users" : [
+    { 
+        "userId" : "aymen Fourati",
+        "WalletAdress":"0x5B38Da6a701c568545dCfcB03FcB875f56beddC4",
+        "email": "aymen.fa@pepolls.com"
+    },
+    { 
+        "userId" : "amine BNR",
+        "WalletAdress":"0xAb8483F64d9C6d1EcF9b849Ae677dD3315835cb2",
+        "email": "amine.bnr@pepolls.com"
+    },
+    {
+        "userId" : "amine design",
+        "WalletAdress":"0x4B20993Bc481177ec7E8f571ceCaE8A9e22C02db",
+        "email": "amine.ds@pepolls.com"
+
+    },
+    {
+        "userId" : "jihed ceo",
+        "WalletAdress":"0x78731D3Ca6b7E34aC0F824c42a7cC18A495cabaB",
+        "email": "jihed.ra@pepolls.com"
+    },
+    {
+        "userId" : "jihen coo",
+        "WalletAdress":"0x617F2E2fD72FD9D5503197092aC168c91465E7f2",
+        "email": "jihen.ra@pepolls.com"
+    }
+]}
